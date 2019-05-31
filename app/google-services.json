@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754623516163",
+    "firebase_url": "https://this-office-management-s-7e6ed.firebaseio.com",
+    "project_id": "this-office-management-s-7e6ed",
+    "storage_bucket": "this-office-management-s-7e6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754623516163:android:1896d46ac0fd3e5e",
+        "android_client_info": {
+          "package_name": "com.example.thisofficemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754623516163-lvhp0g0nba3f30kijjobupm0o1jj6f01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpYvZ1RlNLXQGxOJkPX4Ouqmp1NN6E42E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754623516163-lvhp0g0nba3f30kijjobupm0o1jj6f01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
